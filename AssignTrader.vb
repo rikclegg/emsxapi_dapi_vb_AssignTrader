@@ -56,6 +56,7 @@ Namespace com.bloomberg.emsx.samples
 
             Sub New()
                 d_service = "//blp/emapisvc_beta"
+                'd_service = "//blp/emapisvc"
                 d_host = "localhost"
                 d_port = 8194
             End Sub
